@@ -7,7 +7,7 @@ const sobreMim = {
    learning: ["Next.js", "Python"]
 }
 ``` 
-<h2>Linguagens de programação 👨🏻‍💻</h2>
+<h2>Programming</h2>
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)
@@ -37,6 +37,6 @@ const sobreMim = {
 ![MOCHA](https://img.shields.io/badge/-Mocha-0D1117?style=for-the-badge&logo=Mocha&logoColor=vine)
 ![CHAI](https://img.shields.io/badge/-Chai-0D1117?style=for-the-badge&logo=Chai&logoColor=orange)
 
-<h2>Contatos</h2>
+<h2>Contacts</h2>
 
 ![Gmail](https://img.shields.io/badge/antoniosantanagn.dev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
