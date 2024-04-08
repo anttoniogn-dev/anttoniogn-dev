@@ -1,4 +1,4 @@
-# Seja bem-vindo!
+# Welcome!
 ```js
 const sobreMim = {
    name: "Antonio Santana",
